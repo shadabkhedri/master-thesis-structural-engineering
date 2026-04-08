@@ -1,5 +1,4 @@
 # master-thesis-structural-engineering
-Data-driven modeling of ship–structure interaction using AIS data and probabilistic methods
 This repository contains my master thesis focused on data-driven modeling of ship–structure interaction using AIS data.
 
 Key aspects:
